@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1c;
+    color: white;
+    text-align: center;
+  }
+  
+  .container {
+    margin: 50px auto;
+    padding: 20px;
+    width: 50%;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  h1 {
+    color: #ffa500;
+  }
+  
+  .chat-box {
+    background-color: #222;
+    padding: 20px;
+    border: 1px solid #ffa500;
+    border-radius: 8px;
+    margin: 20px 0;
+    min-height: 100px;
+  }
+  
+  #response {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  #user-input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ffa500;
+    border-radius: 5px;
+  }
+  
+  #send-btn {
+    padding: 10px 20px;
+    background-color: #ffa500;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #send-btn:hover {
+    background-color: #ff8c00;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  .flavor-btn {
+    background-color: #ffa500;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .flavor-btn:hover {
+    background-color: #ff8c00;
+  }
+  
+  footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #bbb;
+  }
